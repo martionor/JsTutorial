@@ -1,0 +1,16 @@
+html, body {
+    margin: 0;
+    border: 0;
+}
+
+
+button {
+    background-color: blue;
+    color: beige;
+    width: 100px;
+    height: 100px;
+}
+
+#demo {
+    background-color: yellow;
+}
